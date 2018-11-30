@@ -164,3 +164,4 @@ _하정우, 네이버 클로바 AI연구팀장_
 - Mac OS에서 matplotlib를 사용하는 코드가 실행이 안되거나 에러가 나는 경우
   - `~/.matplotlib/matplotlibrc` 파일을 생성하고 `backend: TkAgg` 라는 설정을 추가해 주시면 됩니다.
 # keras_3min_deeplearning
+# 3min_deeplearning_study
